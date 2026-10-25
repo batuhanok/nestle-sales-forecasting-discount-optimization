@@ -1,12 +1,12 @@
-# Sales Forecasting and Discount Optimization for Nestlé Professional
+# Sales Forecasting and Discount Optimization for Nestlé
 
-Industry engineering project with Nestlé Professional on how trade discounts drive sales and which discount level maximizes profit for each product and customer group.
+Industry engineering project with Nestlé on how trade discounts drive sales and which discount level maximizes profit for each product and customer group. Report title "An Analytical Approach to Sales Forecasting and Discount Optimization for Nestlé Professional".
 
-> The code, data and detailed results of this project are covered by a confidentiality agreement with Nestlé. This repository only shares the project summary and the front matter of the report (title pages and table of contents).
+> The code, data and detailed results of this project are covered by a non disclosure agreement (NDA) with Nestlé. This repository only shares the project summary and the front matter of the report (title pages and table of contents).
 
 ## Overview
 
-Nestlé Professional sells to out of home channels where discounts are a major lever, but it was not clear how much extra volume each discount level actually brings. We built a two stage approach that first forecasts how sales respond to discounts and then picks the most profitable discount for every product and customer combination under business constraints.
+Nestlé sells to out of home channels where discounts are a major lever, but it was not clear how much extra volume each discount level actually brings. We built a two stage approach that first forecasts how sales respond to discounts and then picks the most profitable discount for every product and customer combination under business constraints.
 
 ## What I did
 
@@ -29,4 +29,4 @@ Python, Gurobi, regression analysis (linear, log-linear, linear-log, log-log), o
 
 Batuhan Ok, Beyza Sude Kaymakcı, Melek Melisa Akay, Doğa Güz, Alaz Kurt
 
-ISE 491 and ISE 492 Engineering Project, Yeditepe University, November 2024 to June 2025. Academic advisors Assist. Prof. Dr. Zeynep Özlem Ocak and Prof. Dr. Dilek Tüzün Aksu. Industry coordinators Arif Cihat Dağdelen and Begüm Alıcı from Nestlé Professional.
+ISE 491 and ISE 492 Engineering Project, Yeditepe University, November 2024 to June 2025. Academic advisors Assist. Prof. Dr. Zeynep Özlem Ocak and Prof. Dr. Dilek Tüzün Aksu. Industry coordinators Arif Cihat Dağdelen and Begüm Alıcı from Nestlé.
